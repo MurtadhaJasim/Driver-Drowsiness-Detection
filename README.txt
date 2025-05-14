@@ -36,7 +36,7 @@ To set up the Drowsiness Detection System, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/drowsiness-detection.git
+   git clone https://github.com/MurtadhaJasim/Driver-Drowsiness-Detection
    cd drowsiness-detection
 
 
@@ -131,11 +131,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Acknowledgments
 Special thanks to the developers of the libraries used in this project.
 Inspiration from various drowsiness detection research papers and projects.
-
-
-
-### Notes
-- Make sure to customize the GitHub repository URL and any other specific details based on your project.
-- You can also expand or modify sections based on any additional features or requirements specific to your project.
-
-Let me know if you need any changes or additions to this README!
